@@ -1,0 +1,15 @@
+document.writeln("        <meta charset=\'UTF-8\'>");
+document.writeln("        <meta name=\'viewport\' content=\'width=device-width, initial-scale=1.0\'>");
+document.writeln("");
+document.writeln("        <!--=============== FAVICON ===============-->");
+document.writeln("        <link rel=\'shortcut icon\' href=\'assets/img/favicon.png\' type=\'image/x-icon\'>");
+document.writeln("");
+document.writeln("        <!--=============== BOXICONS ===============-->");
+document.writeln("        <link rel=\'stylesheet\' href=\'https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css\'>");
+document.writeln("");
+document.writeln("        <!--=============== SWIPER CSS ===============--> ");
+document.writeln("        <link rel=\'stylesheet\' href=\'assets/css/swiper-bundle.min.css\'>");
+document.writeln("");
+document.writeln("        <!--=============== CSS ===============--> ");
+document.writeln("        <link rel=\'stylesheet\' href=\'assets/css/styles.css\'>");
+document.writeln("		");
